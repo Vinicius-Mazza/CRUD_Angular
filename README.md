@@ -1,2 +1,2 @@
 # CRUD_Angular
-Pequeno projeto de Crud feito em angular
+Pequeno projeto crud feito em angular
