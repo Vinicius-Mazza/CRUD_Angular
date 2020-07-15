@@ -17,7 +17,7 @@ import { MatListModule } from '@angular/material/list';
 import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { ProductsCreateComponent } from './components/products/products-create/products-create.component';
-
+import { MatButtonModule } from '@angular/material/button';
 
 @NgModule({
   declarations: [
@@ -37,7 +37,8 @@ import { ProductsCreateComponent } from './components/products/products-create/p
     MatSidenavModule,
     MatListModule,
     MatCardModule,
-    RouterModule
+    RouterModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
