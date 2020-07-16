@@ -11,8 +11,8 @@ import { Product } from '../product.model';
 export class ProductsCreateComponent implements OnInit {
 
   product: Product = {
-    name: 'Produto de teste',
-    price: 125.00
+    name: '',
+    price: null
   }
 
   constructor(private productService: ProductService,
