@@ -24,6 +24,21 @@
       "name": "Formulario",
       "price": "9.99",
       "id": 5
+    },
+    {
+      "name": "Playstation 4",
+      "price": "2500",
+      "id": 6
+    },
+    {
+      "name": "Xbox One",
+      "price": "2400",
+      "id": 7
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": "2377",
+      "id": 8
     }
   ]
 }
