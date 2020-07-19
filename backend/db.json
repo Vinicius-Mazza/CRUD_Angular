@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Samsung S20+ Plus",
+      "price": "7000.89"
     },
     {
       "name": "Produto de teste",
@@ -34,11 +34,6 @@
       "name": "Xbox One",
       "price": "2400",
       "id": 7
-    },
-    {
-      "name": "Nintendo Switch",
-      "price": "2377",
-      "id": 8
     }
   ]
 }
